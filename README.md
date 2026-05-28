@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I'm looking to collaborate on<br>Web projects of any kind — I'm ready to jump in, whether it's frontend, a full-stack app, or something in between<br>I'm looking for help with<br>Deepening my JavaScript knowledge and understanding how production full-stack apps are structured<br>I'm currently learning<br>Advancing through a full-stack course — JS, React, Node.js, Express, and PostgreSQL<br>Ask me about<br>Building a portfolio from scratch, web dev as a student, or getting started with full-stack development<br>Fun fact<br>I work evenings and study during the day — most of my code gets written after 9pm
 
 
